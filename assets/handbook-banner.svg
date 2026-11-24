@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="360" viewBox="0 0 1120 360" role="img" aria-labelledby="title desc">
+  <title id="title">JavaScript DSA Handbook</title>
+  <desc id="desc">A dark cover with a yellow JS tile and illustrations of a tree, a graph, and a stack.</desc>
+  <defs>
+    <linearGradient id="background" x2="100%" y2="100%">
+      <stop stop-color="#101521"/>
+      <stop offset="1" stop-color="#202b43"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#7684a6" opacity=".32"/>
+    </pattern>
+  </defs>
+  <rect width="1120" height="360" rx="24" fill="url(#background)"/>
+  <rect x="655" y="24" width="440" height="312" rx="18" fill="url(#dots)"/>
+  <rect x="56" y="56" width="52" height="52" rx="9" fill="#f7df58"/>
+  <text x="99" y="97" text-anchor="end" fill="#101521" font-family="Arial, sans-serif" font-size="27" font-weight="700">JS</text>
+  <g font-family="Arial, sans-serif">
+    <text x="124" y="91" fill="#f7df58" font-size="28" font-weight="700">JavaScript</text>
+    <text x="53" y="204" fill="#f7f8fc" font-size="72" font-weight="700">DSA Handbook</text>
+    <text x="58" y="255" fill="#c5cee1" font-size="27">Data structures, algorithms, and patterns</text>
+  </g>
+  <g stroke="#42506c" stroke-width="2" fill="#182338">
+    <rect x="685" y="62" width="168" height="236" rx="16"/>
+    <rect x="872" y="62" width="174" height="108" rx="16"/>
+    <rect x="872" y="190" width="174" height="108" rx="16"/>
+  </g>
+  <g stroke="#f7df58" stroke-width="3" fill="#182338">
+    <path d="M769 123l-37 54m37-54 37 54m-74 0-21 55m21-55 23 55m51-55 22 55" fill="none"/>
+    <circle cx="769" cy="123" r="11" fill="#f7df58"/>
+    <circle cx="732" cy="177" r="9"/>
+    <circle cx="806" cy="177" r="9"/>
+    <circle cx="711" cy="232" r="8"/>
+    <circle cx="755" cy="232" r="8"/>
+    <circle cx="828" cy="232" r="8"/>
+  </g>
+  <g stroke="#84dfc4" stroke-width="3" fill="#182338">
+    <path d="M917 132l34-42 48 35-82 7m34-42 14 53 34-18" fill="none"/>
+    <circle cx="917" cy="132" r="6"/>
+    <circle cx="951" cy="90" r="6"/>
+    <circle cx="999" cy="125" r="6"/>
+    <circle cx="965" cy="143" r="6"/>
+  </g>
+  <g stroke="#a9b9ff" stroke-width="2" fill="#293955">
+    <rect x="919" y="210" width="80" height="18" rx="4" fill="#a9b9ff"/>
+    <rect x="919" y="235" width="80" height="18" rx="4"/>
+    <rect x="919" y="260" width="80" height="18" rx="4"/>
+  </g>
+</svg>
